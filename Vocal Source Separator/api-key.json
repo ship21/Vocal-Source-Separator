@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "neural-period-222912",
+  "private_key_id": "c953f563525515fde472b27debeb08f32ab9dc70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChN90Cx7czXMnZ\n4nEkXquRRGnKKGTmPpS/PR0cUCl7c8c32/C2meBkvTEEgh68PGCzMZZsCjsN3w/1\nR/mKIcipb1M6+bBdLLcLq7G4mU3NZevAOWWGBL8fChkxOpl9kPQsWAVGHYjE7QZl\naDk5bE8Rbd+N22OPyTcvD/gGguy2niRZ5dBLcF34HjHVrXLEMQz6dpQd924j0nDb\n4hwPgsU5XTX54QkaRnp0CE8NHPDl09TNnFXZrK5UUuTTfsqZNv7rU8zzpjm9+vrU\n5t4IiB00PIXU5ux9cOSNqy57Nto+4O+pCmP+uxZ3nsqBnVd8byeVvieafvjZuq5d\n3fKgnDQ3AgMBAAECggEAA9TVikrfxjc2zthMUw5y6l1jXDwQhc5H77GOnw0ipz3t\nppyyAEzw4cQDRbWn8FZJAAk2J3QoyiAae3xN6GP8Jlawdi7X66bz5LGcZCQ0jqSU\n8TkL+h7jweOWDK71VeAbhXBEE9IA3Zk6dS+AaKZzzJi9XtwvZgvkpVguT01OPdrD\nmY0UTWSuRbYEtomBgxIcxx/DK9sp/2EoZHMZeR8p9+2fO5ITw1fsv2Fy/adYOgQa\na6N6RTj4m+7aJzpahFEwV/qp0MS3pzecI6o2+pDStEDlpUE5CmAJFmpBQQ0tXV6L\nnnCYRiuTlC+xmN6uqmhKWUN43xgHIfQUCiFigPTLnQKBgQDZo0z3mcS5KFknoBZG\nfd6ATAN8vrdoDlIL6NnL/gnMIZ8VyHbRN80qcZu01ULvEgVFTlF/k3GtcVohSg37\nG+2RDnuDrNy5okMPKu8e5N+qHpMgeJznu3b8jqcRYyKqVHAFJQGbORGSKT6Kk+9k\nATeJZSnfz9MbUabaL3fFleOJRQKBgQC9oq3ozm/zpJNp8YHMG6YnjrhnukDzqveD\n1R6DzqKf/cILSXGPVySRIV/3pLBcK1wXDzYkULXQAOSIWhomPx9oPyJy9FonxbY3\n4nOSoddp8yDTDMH1C29vHPThyi5AwXJQq/CrY6R2dMr1dc+O3+YM4aF9XThcbNcY\nxQ2PhfJZSwKBgHrVpTI2MocCk9c+jnP4xKUKwgkdJyzusDYSlSKCXgs9iqljvFP3\nN6/V8TjOCPof5KOqQWtMz6NBz8nsHxn0OFBfqSy3WtjXERw1ckKwkOBWY1m3WW+d\nKdn/taGln0IdaCAvM8nlGtqwtqDGQB3kZfEBDPJKPO81VYPduK7nG0Y1AoGBAJh0\nA1oJNIlsQrLGXHIJvF9K5sdFPlhmlwweNqUCZ002RVyrk6cICLbAXRWLCdlfZm6H\nZSB23mO1hAR2Y1ViI868CubduOkGksKExCMbB0H/GuFw/TESG2j5n4kx8FNQ8aUX\nRamTtrEgndYN+2pCaADtF9XgLqJnQdmA+bDrn3TXAoGAB5OVzREKYOLcglZHtq6b\nN2M8RIzF8Wax12Xa6UYDFeVEdNNJEnaEUifYZNTpHP15UVPWw29qtyunvgsco/o1\nxXC/KhtRaNy15rNuZiokQ/eB/8uWil8tWXuDR1VBV2qEwLoQEnofXAwyDtDAoheV\nmygvXp1jwjC843v6pM3wJmY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "saksham@neural-period-222912.iam.gserviceaccount.com",
+  "client_id": "106173230941303159479",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saksham%40neural-period-222912.iam.gserviceaccount.com"
+}
