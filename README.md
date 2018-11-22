@@ -34,9 +34,8 @@ Following are the technologies used in this project:
           Rename file to api-key.json
           Make sure to move the key into speech-to-text cloned repo, if you plan to test this code.
  4. **Convert Audio File to Wav format :** Also this google api only accepts the audio files in .wav file so you need to covert it to .wav format using any of the softwares available onlie like audacity.
- 5. **Install required Python modules :** I added requirements.txt in example repo with all needed libraries. It can be used      to install all via:
-
-   pip3 install -r requirements.txt
+ 5. **Install required Python modules :** I added "requirements.txt" in this repo with all needed libraries. It can be used      to install all via:
+      pip3 install -r requirements.txt
  6. There are two version of the Script one is slow and other one is somewhat fast.I have attached both of them.
  
 
