@@ -16,23 +16,25 @@ Following are the technologies used in this project:
 1. There is a "main.py" file which is the main file(GUI file) from where the execution actually starts.(You need to make the necessary changes in it according to your computer).
 2. There are two buttons "Get Graphs" and "Convert" which calls the two separate python scripts for converting an audio file to its text and getting graphs.
 3. There are some steps you need to follow to use The GOOGLE CLOUD SPEECH API.
-    **-Sign Up for a Free Tier Account**
+    **-Sign Up for a Free Tier Account :**
         Google Cloud offers a Free Tier plan, which i have used. An account is required to get an API key.
-    **-Generate an API Key**
+        
+    **-Generate an API Key :**
         Follow these steps to generate an API key:
-          Sign-in to Google Cloud Console
-          Click “API Manager”
-          Click “Credentials”
-          Click “Create Credentials”
-          Select “Service Account Key”
-          Under “Service Account” select “New service account”
-          Name service (whatever you’d like)
-          Select Role: “Project” -> “Owner”
-          Leave “JSON” option selected
-          Click “Create”
-          Save generated API key file
-          Rename file to api-key.json
-          Make sure to move the key into speech-to-text cloned repo, if you plan to test this code.
+             -Sign-in to Google Cloud Console
+             -Click “API Manager”
+             -Click “Credentials”
+             -Click “Create Credentials”
+             -Select “Service Account Key”
+             -Under “Service Account” select “New service account”
+             -Name service (whatever you’d like)
+             -Select Role: “Project” -> “Owner”
+             -Leave “JSON” option selected
+             -Click “Create”
+             -Save generated API key file & Rename file to "api-key.json"
+             
+             Make sure to move the key into speech-to-text cloned repo, if you plan to test this code.
+             
  4. **Convert Audio File to Wav format :** Also this google api only accepts the audio files in .wav file so you need to covert it to .wav format using any of the softwares available onlie like audacity.
  5. **Install required Python modules :** I added "requirements.txt" in this repo with all needed libraries. It can be used      to install all via:
       pip3 install -r requirements.txt
